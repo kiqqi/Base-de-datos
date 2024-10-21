@@ -1,0 +1,9 @@
+Este programa gestiona un registro de empleados para una empresa. Se pueden realizar las siguientes acciones:
+1. Agregar empleados: El usuario ingresa el nombre, edad y puesto del empleado, y esta información se guarda en un diccionario que luego se agrega a una lista de empleados.
+2. Listar empleados: Se muestra una lista de todos los empleados registrados, indicando su nombre, edad y puesto.
+3. Actualizar empleado: El usuario puede buscar un empleado por nombre y modificar su edad o puesto.
+4. Eliminar empleado: Permite eliminar un empleado de la lista.
+5. Calcular edad promedio: Calcula la edad promedio de todos los empleados registrados.
+6. El programa tiene un menú que permite seleccionar las distintas opciones hasta que se elige salir.
+
+El registro se almacena en una lista de diccionarios, donde cada diccionario representa a un empleado.
